@@ -1,0 +1,15 @@
+{% load navigation_tags wagtailcore_tags %}
+
+{% get_site_root as site_root %}
+
+<ul>
+	<li><a href="{% pageurl site_root %}">{{ site_root.title }}</a></li>
+{% for menu in menus %}
+	<li>
+		<a href="{% pageurl menu %}">{{ menu.title }}</a>
+		{% if menu.show_dropdown %}
+			{% sub_menu parent=menu %}
+		{% endif %}
+	</li>
+{% endfor %}
+</ul>

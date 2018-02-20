@@ -1,0 +1,7 @@
+{% load navigation_tags wagtailcore_tags %}
+
+<ul>
+	{% for menu in sub_menus %}
+		<li><a href="{% pageurl menu %}">{{ menu.title }}</a></li>	
+	{% endfor %}	
+</ul>

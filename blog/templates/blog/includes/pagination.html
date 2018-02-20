@@ -1,0 +1,23 @@
+{% if posts.paginator.num_pages > 1 %}
+
+	<div class="row">
+		<ul class="actions fit 12u$">
+			<li class="5u align-right">
+			{% if posts.has_previous %}
+				<a href="?page={{ posts.previous_page_number }}{% for key,value in request.GET.items %}{% ifnotequal key 'page' %}&amp;{{ key }}={{ value }}{% endifnotequal %}{% endfor %}">Previous</a>
+			{% else %}
+				<span class="disabled">Previous</span>
+			{% endif %}
+			</li>
+			<li class="1u align-center">{{ posts.number }} of {{ posts.paginator.num_pages }}</li>
+			<li class="5u align-left">
+			{% if posts.has_next %}
+				<a href="?page={{ posts.next_page_number }}{% for key,value in request.GET.items %}{% ifnotequal key 'page' %}&amp;{{ key }}={{ value }}{% endifnotequal %}{% endfor %}">Next</a>
+			{% else %}
+				<span class="disabled">Next</span>
+			{% endif %}
+			</li>
+		</ul>
+	</div>
+
+{% endif %}

@@ -1,0 +1,7 @@
+*.pyc
+wingdbstub.py
+wingdebugpw
+mini_blog.wpr
+db.sqlite3
+.idea
+.idea/*

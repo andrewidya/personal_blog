@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+
+{% load wagtailcore_tags wagtailimages_tags %}
+
+{% block body_class %}template-blogindexpage{% endblock %}
+
+{% block content %}
+	{% if messages %}
+		<ul>
+		{% for message in messages %}
+			<li>{{ message }}</li>
+		{% endfor %}
+		</ul>
+	{% endif %}
+
+	<h1>{{ page.title }}</h1>
+
+	<div class="intro">{{ page.intro|richtext }}</div>
+
+	{% for post in posts %}
+		{% image post.cover fill-200x200 class="img-responsive" %}
+		<h2><a href="{% pageurl post %}">{{ post.title }}</a></h2>
+		{{ post.specific.intro }}
+	{% endfor %}
+	
+	{% block pagination %}
+		{% include "blog/includes/pagination.html" with posts=posts %}
+	{% endblock %}
+{% endblock %}
+

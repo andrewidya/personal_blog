@@ -1,0 +1,1384 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"xml",
+				"xml_tree\tstatement"
+			],
+			[
+				"H",
+				"HTMLParser\tclass"
+			],
+			[
+				"_TCP",
+				"_TCP_PORT\tstatement"
+			],
+			[
+				"SOCK_S",
+				"SOCK_STREAM\tinstance"
+			],
+			[
+				"sen",
+				"send_message"
+			],
+			[
+				"com",
+				"com_key\tparam"
+			],
+			[
+				"bo",
+				"body_bytes\tstatement"
+			],
+			[
+				"me",
+				"message\tparam"
+			],
+			[
+				"TCP_",
+				"_TCP_PORT"
+			],
+			[
+				"Not",
+				"NotImplementedError\tclass"
+			],
+			[
+				"_T",
+				"_TCP_IP"
+			],
+			[
+				"No",
+				"NotImplementedError\tclass"
+			],
+			[
+				"Strea",
+				"StreamFieldPanel\tclass"
+			],
+			[
+				"Stream",
+				"StreamField\tclass"
+			],
+			[
+				"bod",
+				"BodyStreamBlock\tclass"
+			],
+			[
+				"Ca",
+				"Carousel\tclass"
+			],
+			[
+				"Carous",
+				"CarouselBlock\tclass"
+			],
+			[
+				"Carou",
+				"CarouselCaptionBlock\tclass"
+			],
+			[
+				"wag",
+				"wagtailadmin\tmodule"
+			],
+			[
+				"Blog",
+				"BlogPage"
+			],
+			[
+				"Stre",
+				"StreamFieldPanel\tclass"
+			],
+			[
+				"wagta",
+				"wagtailcore\tmodule"
+			],
+			[
+				"ver",
+				"verbose_name\tstatement"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"slug",
+				"slugify\tfunction"
+			],
+			[
+				"Parental",
+				"ParentalManyToManyField\tclass"
+			],
+			[
+				"Man",
+				"ManyToManyField\tclass"
+			],
+			[
+				"Pare",
+				"ParentalKey\tclass"
+			],
+			[
+				"Parent",
+				"ParentalManyToManyField\tclass"
+			],
+			[
+				"Paren",
+				"ParentalKey\tclass"
+			],
+			[
+				"Link",
+				"LinkField"
+			],
+			[
+				"Naviga",
+				"NavigationMenuManager\tclass"
+			],
+			[
+				"Page",
+				"PageChooserPanel\tclass"
+			],
+			[
+				"link_",
+				"link_page"
+			],
+			[
+				"SET_",
+				"SET_NULL\tfunction"
+			],
+			[
+				"u",
+				"User\tclass"
+			],
+			[
+				"m",
+				"models\tmodule"
+			],
+			[
+				"class",
+				"classname\tparam"
+			],
+			[
+				"Custom",
+				"CustomRichTextBlock\tclass"
+			],
+			[
+				"Cus",
+				"CustomRichTextBlock\tclass"
+			],
+			[
+				"cont",
+				"contrib"
+			],
+			[
+				"Image",
+				"ImageChooserPanel\tmodule"
+			],
+			[
+				"Ima",
+				"ImageChooserPanel"
+			],
+			[
+				"Block",
+				"BlockQuoteBlock\tclass"
+			],
+			[
+				"Imag",
+				"ImageBlock\tclass"
+			],
+			[
+				"format",
+				"formatter\tstatement"
+			],
+			[
+				"fo",
+				"formatter\tmodule"
+			],
+			[
+				"C",
+				"CASCADE"
+			],
+			[
+				"Paretn",
+				"ParentalManyToManyField\tmodule"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"tran",
+				"translateY"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"top",
+				"top_primary_nav"
+			],
+			[
+				"scro",
+				"scroll"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"sli",
+				"slidesToShow"
+			],
+			[
+				"in",
+				"infinite"
+			],
+			[
+				"slide",
+				"slidesToScroll"
+			],
+			[
+				"slides",
+				"slidesToShow"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"padding-",
+				"padding-bottom"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"B",
+				"BasketApplication\tclass"
+			],
+			[
+				"sing",
+				"single_add_view\tfunction"
+			],
+			[
+				"urls",
+				"urlpatterns\tstatement"
+			],
+			[
+				"pro",
+				"product\tstatement"
+			],
+			[
+				"re",
+				"request\tparam"
+			],
+			[
+				"get_",
+				"get_absolute_url"
+			],
+			[
+				"ca",
+				"category\tstatement"
+			],
+			[
+				"prod",
+				"product_reviews\tstatement"
+			],
+			[
+				"mo",
+				"modules\tmodule"
+			],
+			[
+				"app",
+				"application"
+			],
+			[
+				"Or",
+				"OrdersDashboardApplication"
+			],
+			[
+				"Base",
+				"BaseDashboardApplication\tmodule"
+			],
+			[
+				"get",
+				"get_class\tmodule"
+			],
+			[
+				"rel",
+				"reload_page\tfunction"
+			],
+			[
+				"url",
+				"urlpatterns\tstatement"
+			],
+			[
+				"Sour",
+				"SourceType\tstatement"
+			],
+			[
+				"inc",
+				"incl_tax"
+			],
+			[
+				"Sou",
+				"SourceType\tstatement"
+			],
+			[
+				"get_c",
+				"get_classes\tmodule"
+			],
+			[
+				"source",
+				"source_type\tstatement"
+			],
+			[
+				"lis",
+				"list_display\tstatement"
+			],
+			[
+				"Job",
+				"JobPositionInline\tclass"
+			],
+			[
+				"Ad",
+				"AddressAdminInline"
+			],
+			[
+				"Fam",
+				"FamilyAdminInline"
+			],
+			[
+				"Edu",
+				"EducationAdminInline"
+			],
+			[
+				"ch",
+				"choices"
+			],
+			[
+				"Date",
+				"DateField"
+			],
+			[
+				"ma",
+				"max_length"
+			],
+			[
+				"Cha",
+				"CharField"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/andre/Developments/attdance_log/attendance.py",
+			"settings":
+			{
+				"buffer_size": 4749,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/andre/Developments/attdance_log/xmlconverter.py",
+			"settings":
+			{
+				"buffer_size": 901,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 260.0,
+		"last_filter": "menu",
+		"selected_items":
+		[
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"auto",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"au",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"goto to",
+				"Anaconda: Goto object definition"
+			],
+			[
+				"docs",
+				"Anaconda: Display object docs"
+			],
+			[
+				"goto",
+				"Anaconda: Goto object definition"
+			],
+			[
+				"anaconda",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"anacona",
+				"Anaconda: Goto object definition"
+			],
+			[
+				"ui",
+				"UI: Select Theme"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"u",
+				"UI: Select Theme"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Anaconda: Goto Python object"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"complete",
+				"Anaconda: McCabe complexity check"
+			],
+			[
+				"anaconda: show",
+				"Anaconda: Show error list"
+			],
+			[
+				"ana",
+				"Anaconda: Goto Python object"
+			],
+			[
+				"anaconda ",
+				"Anaconda: Display object docs"
+			],
+			[
+				"ananco",
+				"Anaconda: Set Python interpreter"
+			],
+			[
+				"Package Control: disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"packa",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"packagere",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"sideb",
+				"View: Toggle Side Bar"
+			],
+			[
+				"autopep",
+				"AutoPEP8: Format Code"
+			],
+			[
+				"sid",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sideba",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"aut",
+				"AutoPEP8: Format Code"
+			],
+			[
+				"autope",
+				"AutoPEP8: Format Code"
+			],
+			[
+				"view",
+				"View: Toggle Side Bar"
+			],
+			[
+				"console",
+				"Set Syntax: R Console"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 112.0,
+		"history":
+		[
+			"hide",
+			"exit",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/andre/Developments/personal_blog/mini_blog",
+		"/home/andre/Developments/personal_blog/mini_blog/blog",
+		"/home/andre/Developments/personal_blog/mini_blog/blog/templates",
+		"/home/andre/Developments/personal_blog/mini_blog/blog/templates/blog",
+		"/home/andre/Developments/personal_blog/mini_blog/blog/templates/blog/blocks",
+		"/home/andre/Developments/personal_blog/mini_blog/home"
+	],
+	"file_history":
+	[
+		"/home/andre/Developments/personal_blog/mini_blog/home/models.py",
+		"/home/andre/Developments/personal_blog/mini_blog/blog/blocks.py",
+		"/home/andre/Developments/personal_blog/mini_blog/blog/models.py",
+		"/home/andre/Developments/personal_blog/mini_blog/blog/templates/blog/blocks/image_block.html",
+		"/home/andre/Developments/personal_blog/mini_blog/home/templates/home/home_page.html",
+		"/home/andre/Developments/personal_blog/mini_blog/blog/templates/blog/blog_page.html",
+		"/home/andre/Developments/personal_blog/mini_blog/blog/templates/blog/blocks/heading_block.html",
+		"/home/andre/Developments/personal_blog/mini_blog/blog/templates/blog/blocks/blockquote_block.html",
+		"/home/andre/Developments/personal_blog/mini_blog/blog/snippets.py",
+		"/home/andre/.virtualenvs/personal_blog/lib/python2.7/site-packages/wagtail/wagtailimages/edit_handlers.py",
+		"/home/andre/.virtualenvs/personal_blog/lib/python2.7/site-packages/wagtail/wagtailimages/widgets.py",
+		"/home/andre/.virtualenvs/personal_blog/lib/python2.7/site-packages/wagtail/wagtailadmin/widgets.py",
+		"/home/andre/Developments/personal_blog/mini_blog/blog/templatetags/blog_tags.py",
+		"/home/andre/Developments/personal_blog/mini_blog/blog/managers.py",
+		"/home/andre/Developments/personal_blog/mini_blog/home/blocks.py",
+		"/home/andre/Developments/personal_blog/mini_blog/blog/templatetags/__init__.py",
+		"/home/andre/Developments/personal_blog/mini_blog/blog/templates/blog/blog_index_page.html",
+		"/home/andre/Developments/personal_blog/mini_blog/mini_blog/templates/base.html",
+		"/home/andre/Developments/personal_blog/mini_blog/mini_blog/settings/base.py",
+		"/home/andre/Developments/personal_blog/mini_blog/blog/static/blog/css/code.css",
+		"/home/andre/Developments/personal_blog/mini_blog/static/blog/css/code.css",
+		"/home/andre/Developments/personal_blog/mini_blog/mini_blog/settings/production.py",
+		"/home/andre/Developments/personal_blog/mini_blog/mini_blog/settings/dev.py",
+		"/home/andre/Developments/personal_blog/mini_blog/mini_blog/wsgi.py",
+		"/home/andre/Developments/personal_blog/mini_blog/blog/fields.py",
+		"/home/andre/Developments/personal_blog/mini_blog/mini_blog/urls.py",
+		"/home/andre/Developments/personal_blog/mini_blog/mini_blog.sublime-project",
+		"/home/andre/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+		"/home/andre/.config/sublime-text-3/Packages/PackageResourceViewer/PackageResourceViewer.sublime-settings",
+		"/home/andre/.virtualenvs/personal_blog/lib/python2.7/site-packages/wagtail/wagtailcore/models.py",
+		"/home/andre/.virtualenvs/personal_blog/lib/python2.7/site-packages/wagtail/wagtailcore/rich_text.py",
+		"/home/andre/.virtualenvs/personal_blog/lib/python2.7/site-packages/wagtail/wagtailcore/blocks/field_block.py",
+		"/home/andre/.virtualenvs/personal_blog/lib/python2.7/site-packages/wagtail/wagtailadmin/edit_handlers.py",
+		"/home/andre/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/home/andre/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/andre/.config/sublime-text-3/Packages/Python/Completion Rules.tmPreferences",
+		"/home/andre/.config/sublime-text-3/Packages/AutoPep8/AutoPep8.sublime-settings",
+		"/home/andre/Developments/personal_blog/mini_blog/blog/templates/blog/blog_tag_index_page.html",
+		"/home/andre/Developments/personal_blog/mini_blog/blog/templates/blog/blocks/paragraph_block.html",
+		"/home/andre/.config/sublime-text-3/Packages/Jedi - Python autocompletion/sublime_jedi.sublime-settings",
+		"/home/andre/.config/sublime-text-3/Packages/User/sublime_jedi.sublime-settings",
+		"/home/andre/Developments/personal_blog/mini_blog/db.sqlite3",
+		"/home/andre/.config/sublime-text-3/Packages/Jedi - Python autocompletion/Default.sublime-keymap",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_style/ar_shop/index.html",
+		"/home/andre/.config/sublime-text-3/Packages/Emmet/Default (Linux).sublime-keymap",
+		"/home/andre/Developments/personal_blog/mini_blog/blog/migrations/0008_auto_20171226_0500.py",
+		"/home/andre/Developments/personal_blog/mini_blog/blog/migrations/0009_auto_20171226_0453.py",
+		"/home/andre/Developments/Ecommerce/design/scss/main.scss",
+		"/home/andre/Developments/Ecommerce/design/static/css/main.css",
+		"/home/andre/Developments/Ecommerce/design/scss/_variables.scss",
+		"/home/andre/Developments/Ecommerce/design/assets/bootstrap-4.0.0-beta.2/scss/mixins/_background-variant.scss",
+		"/home/andre/Developments/Ecommerce/design/assets/bootstrap-4.0.0-beta.2/scss/utilities/_background.scss",
+		"/home/andre/Developments/Ecommerce/design/index.html",
+		"/home/andre/Developments/Ecommerce/design/assets/bootstrap-4.0.0-beta.2/scss/mixins/_forms.scss",
+		"/home/andre/Developments/Ecommerce/design/assets/bootstrap-4.0.0-beta.2/scss/_forms.scss",
+		"/home/andre/Developments/Ecommerce/design/config.rb",
+		"/home/andre/Developments/Ecommerce/design/assets/bootstrap-4.0.0-beta.2/scss/mixins/_grid.scss",
+		"/home/andre/Developments/Ecommerce/design/assets/bootstrap-4.0.0-beta.2/scss/mixins/_grid-framework.scss",
+		"/home/andre/Developments/Ecommerce/design/assets/bootstrap-4.0.0-beta.2/scss/utilities/_spacing.scss",
+		"/home/andre/Developments/Ecommerce/design/assets/bootstrap-4.0.0-beta.2/scss/_navbar.scss",
+		"/home/andre/Developments/Ecommerce/design/scss/_bootstrap.scss",
+		"/home/andre/Developments/Ecommerce/design/assets/bootstrap-4.0.0-beta.2/scss/bootstrap.scss",
+		"/home/andre/Developments/Ecommerce/design/assets/bootstrap-4.0.0-beta.2/scss/bootstrap-grid.scss",
+		"/home/andre/Developments/Ecommerce/design/assets/bootstrap-4.0.0-beta.2/scss/bootstrap-reboot.scss",
+		"/home/andre/Developments/Ecommerce/design/assets/bootstrap-4.0.0-beta.2/scss/_root.scss",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_style/ar_shop/assets/partials/_bootstrap-variables.scss",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_style/ar_shop/product-grid-card.html",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_style/ar_shop/assets/partials/_navigation.scss",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_style/ar_shop/assets/main.scss",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_style/ar_shop/assets/partials/_ar-color-maps.scss",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_style/ar_shop/assets/partials/_product-slider.scss",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_style/ar_shop/assets/partials/_buttons.scss",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_shop/ab_shop/style/index.html",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_style/ar_shop/static/css/font-awesome.css",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_style/ar_shop/assets/font-awesome/css/font-awesome.css",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_style/ar_shop/assets/_test-element.scss",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_style/ar_shop/static/css/main.css",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_style/ar_shop/assets/bootstrap-sass/scss/bootstrap/_glyphicons.scss",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_style/ar_shop/assets/bootstrap-sass/scss/bootstrap/_utilities.scss",
+		"/run/media/andre/ArchFlash/Pribadi/ar_shop/assets/main.scss",
+		"/run/media/andre/ArchFlash/Pribadi/ar_shop/index.html",
+		"/run/media/andre/ArchFlash/Pribadi/ar_shop/assets/partials/_ar-color-maps.scss",
+		"/home/andre/.config/inkscape/palettes/ar pallete",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_shop/ab_shop/style/ab_shop/scss/_bootstrap-variables.scss",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_shop/ab_shop/style/ab_shop/scss/_slick-theme.scss",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_shop/ab_shop/style/ab_shop/scss/style.scss",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_shop/ab_shop/style/bootstrap/scss/bootstrap/mixins/_grid-framework.scss",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_shop/ab_shop/style/ab_shop/css/style.css",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_shop/ab_shop/style/css-star-rating/css/star-rating.css",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_shop/ab_shop/style/bootstrap/scss/bootstrap/mixins/_clearfix.scss",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_shop/ab_shop/style/bootstrap/scss/bootstrap/mixins/_grid.scss",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_shop/ab_shop/style/bootstrap/scss/bootstrap/mixins/_responsive-visibility.scss",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_shop/ab_shop/style/bootstrap/scss/bootstrap/mixins/_buttons.scss",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_shop/ab_shop/style/bootstrap/scss/bootstrap/_buttons.scss",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_shop/static/oscar/js/oscar/ui.js",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_shop/ab_shop/style/bootstrap/scss/bootstrap/mixins/_text-overflow.scss",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_shop/ab_shop/style/config.rb",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_shop/ab_shop/style/ab_shop/scss/_bootstrap-variables.sass",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_shop/ab_shop/bootstrap/index.html",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_shop/ab_shop/bootstrap/_variables.scss",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_shop/ab_shop/bootstrap/style.scss",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_shop/ab_shop/bootstrap/css/style.css",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_shop/ab_shop/bootstrap/config.rb",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_shop/ab_shop/bootstrap/scss/style.scss",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_shop/ab_shop/bootstrap/_bootstrap_variables.scss",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_shop/templates/oscar/basket/partials/basket_content.html",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_shop/templates/oscar/basket/partials/basket_totals.html",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_shop/templates/oscar/catalogue/category.html",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_shop/templates/oscar/partials/nav_primary.html",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_shop/templates/oscar/layout.html",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_shop/templates/original/basket/basket.html",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_shop/templates/original/basket/partials/basket_content.html",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_shop/templates/original/base.html",
+		"/home/andre/Developments/Abu Rinjani Shop/themeforest/allstore-html-template/html/cart.html",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_shop/templates/original/basket/partials/basket_totals.html",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_shop/templates/oscar/basket/basket.html",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_shop/templates/oscar/base_store.html",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_shop/templates/original/layout_2_col.html",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_shop/templates/original/offer/list.html",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_shop/templates/oscar/catalogue/browse.html",
+		"/home/andre/Developments/Abu Rinjani Shop/themeforest/allstore-html-template/html/index.html",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_shop/templates/oscar/offer/list.html",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_shop/templates/original/layout.html",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_shop/templates/oscar/catalogue/partials/product.html",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_shop/ab_shop/settings.py",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_shop/ab_shop/urls.py",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_shop/modules/basket/app.py",
+		"/home/andre/Developments/Abu Rinjani Shop/ab_shop/modules/basket/views.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"_current_connection",
+			"imageF",
+			"imageCho",
+			"description",
+			"tag",
+			"BlogCategory",
+			"underline",
+			"theme",
+			"signature",
+			"wagtail.contrib.wagtailroutablepage",
+			"TaggedItem",
+			"wrap_",
+			"demo",
+			"$form-feedback-valid-color",
+			".navigation",
+			"@import \"",
+			"<button class=\"btn btn-default add-to-basket-btn\">Buy</button>",
+			"url(",
+			"navbar",
+			"twbs-font-path",
+			"asse",
+			"path",
+			"bootstrap-sass-asset-helper",
+			"tint",
+			".item-column",
+			"lighten",
+			"label-value",
+			"rating medium",
+			".star.small",
+			".medium",
+			"5",
+			">Buy",
+			"@media",
+			"font-url",
+			"font-path",
+			"btn-primary",
+			"buttons",
+			"form-control",
+			"type=\"submit\"",
+			"$bootstrap-sass-asset-helper",
+			"glyp",
+			"@import \"",
+			"theme-color",
+			"catalog",
+			"single-add",
+			"primary_image",
+			"get_absoulute_url",
+			"cart",
+			"request.path",
+			"currency",
+			"current",
+			"jquery",
+			"search",
+			"well",
+			"order-line",
+			"ShippingEventType",
+			"SourceType",
+			"error_msg",
+			"Source",
+			"self.add_payment",
+			"add_payment",
+			"get_cla",
+			"handle_payment",
+			"handle_pay",
+			"handle_payment",
+			"handle_payment(",
+			"handle_payment",
+			"handle_paymen",
+			"language",
+			"template"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"_client",
+			"@import \"../assets/bootstrap-4.0.0-beta.2/scss/",
+			"<button class=\"btn btn-buy add-to-basket-btn\"><i class=\"fa fa-shopping-cart fa-lg\"></i> Buy now</button>",
+			"color",
+			"rating moderate",
+			"><i class=\"fa fa-shopping-cart fa-lg\"></i>",
+			"btn-buy",
+			"form-control center-block",
+			"type=\"submit\" class=\"form-control\"",
+			"@import \"scss/",
+			"primary_image",
+			"get_absolute_url"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/andre/Developments/attdance_log/attendance.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4749,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3220,
+								3220
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1386.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "/home/andre/Developments/attdance_log/xmlconverter.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 901,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								901,
+								901
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 108.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.758443465492,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.autopep8":
+	{
+		"height": 55.0
+	},
+	"output.exec":
+	{
+		"height": 94.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mini_blog.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"blog/blocks.py"
+			],
+			[
+				"blog_pa",
+				"blog/templates/blog/blog_page.html"
+			],
+			[
+				"home",
+				"home/templates/home/home_page.html"
+			],
+			[
+				"code.css",
+				"blog/static/blog/css/code.css"
+			],
+			[
+				"base",
+				"mini_blog/settings/base.py"
+			],
+			[
+				"code.s",
+				"static/blog/css/code.css"
+			],
+			[
+				"base.html",
+				"mini_blog/templates/base.html"
+			],
+			[
+				"blocks",
+				"blog/blocks.py"
+			],
+			[
+				"model",
+				"blog/models.py"
+			],
+			[
+				"wsgi",
+				"mini_blog/wsgi.py"
+			],
+			[
+				"setti",
+				"mini_blog/settings/dev.py"
+			],
+			[
+				"sett",
+				"mini_blog/settings/production.py"
+			],
+			[
+				"blog_page",
+				"blog/templates/blog/blog_page.html"
+			],
+			[
+				"blog_inde",
+				"blog/templates/blog/blog_index_page.html"
+			],
+			[
+				"urls",
+				"mini_blog/urls.py"
+			],
+			[
+				"dev",
+				"mini_blog/settings/dev.py"
+			],
+			[
+				"field",
+				"blog/fields.py"
+			],
+			[
+				"block",
+				"blog/blocks.py"
+			],
+			[
+				"snip",
+				"blog/snippets.py"
+			],
+			[
+				"setting",
+				"mini_blog/settings/base.py"
+			],
+			[
+				"mini_blog/set",
+				"mini_blog/mini_blog/settings/production.py"
+			],
+			[
+				"mini_blog/se",
+				"mini_blog/mini_blog/settings/base.py"
+			],
+			[
+				"blog/mo",
+				"mini_blog/blog/models.py"
+			],
+			[
+				"blog_tag",
+				"mini_blog/blog/templates/blog/blog_tag_index_page.html"
+			],
+			[
+				"blog_in",
+				"mini_blog/blog/templates/blog/blog_index_page.html"
+			],
+			[
+				"blog/mod",
+				"mini_blog/blog/models.py"
+			],
+			[
+				"home_page",
+				"mini_blog/home/templates/home/home_page.html"
+			],
+			[
+				"home/mo",
+				"mini_blog/home/models.py"
+			],
+			[
+				"nav_pri",
+				"templates/oscar/partials/nav_primary.html"
+			],
+			[
+				"layout",
+				"templates/oscar/layout.html"
+			],
+			[
+				"categor",
+				"templates/oscar/catalogue/category.html"
+			],
+			[
+				"basket_con",
+				"templates/original/basket/partials/basket_content.html"
+			],
+			[
+				"basket_to",
+				"templates/oscar/basket/partials/basket_totals.html"
+			],
+			[
+				"layout_",
+				"templates/original/layout_2_col.html"
+			],
+			[
+				"base_",
+				"templates/oscar/base_store.html"
+			],
+			[
+				"lay",
+				"templates/oscar/layout.html"
+			],
+			[
+				"layou",
+				"templates/original/layout.html"
+			],
+			[
+				"layout_2",
+				"templates/original/layout_2_col.html"
+			],
+			[
+				"browse",
+				"templates/oscar/catalogue/browse.html"
+			],
+			[
+				"catego",
+				"templates/oscar/catalogue/category.html"
+			],
+			[
+				"produc",
+				"templates/oscar/catalogue/partials/product.html"
+			],
+			[
+				"list",
+				"templates/oscar/offer/list.html"
+			],
+			[
+				"set",
+				"ab_shop/settings.py"
+			],
+			[
+				"add_si",
+				"templates/oscar/catalogue/partials/add_single_to_basket_form.html"
+			],
+			[
+				"add_to",
+				"templates/original/catalogue/partials/add_to_basket_form.html"
+			],
+			[
+				"product",
+				"templates/oscar/catalogue/partials/product.html"
+			],
+			[
+				"cate",
+				"templates/oscar/catalogue/category.html"
+			],
+			[
+				"gallery",
+				"templates/oscar/catalogue/partials/gallery.html"
+			],
+			[
+				"detail",
+				"templates/oscar/catalogue/detail.html"
+			],
+			[
+				"baseprod",
+				"templatess/oscar/promotions/baseproductlist.html"
+			],
+			[
+				"search",
+				"templates/oscar/partials/search.html"
+			],
+			[
+				"form_fiel",
+				"templates/oscar/partials/form_field.html"
+			],
+			[
+				"basket_qui",
+				"templatess/oscar/basket/partials/basket_quick.html"
+			],
+			[
+				"basket",
+				"templatess/oscar/basket/partials/basket_content.html"
+			],
+			[
+				"basket_qu",
+				"templates/oscar/basket/partials/basket_quick.html"
+			],
+			[
+				"mini_",
+				"templates/oscar/partials/mini_basket.html"
+			],
+			[
+				"nav_",
+				"templates/oscar/partials/nav_accounts.html"
+			],
+			[
+				"add",
+				"templatess/oscar/catalogue/partials/add_to_basket_form.html"
+			],
+			[
+				"produ",
+				"templates/oscar/catalogue/partials/product.html"
+			],
+			[
+				"detai",
+				"templates/oscar/catalogue/detail.html"
+			],
+			[
+				"brwose",
+				"templates/oscar/catalogue/browse.html"
+			],
+			[
+				"app",
+				"modules/basket/app.py"
+			],
+			[
+				"views.py",
+				"modules/basket/views.py"
+			],
+			[
+				"galler",
+				"templates/oscar/catalogue/partials/gallery.html"
+			],
+			[
+				"brow",
+				"templates/oscar/catalogue/browse.html"
+			],
+			[
+				"brose",
+				"templates/oscar/catalogue/browse.html"
+			],
+			[
+				"raw",
+				"templates/oscar/promotions/rawhtml.html"
+			],
+			[
+				"shop_ta",
+				"ab_shop/templatetags/shop_tags.py"
+			],
+			[
+				"home.",
+				"templatess/oscar/promotions/home.html"
+			],
+			[
+				"best",
+				"templatess/oscar/promotions/baseproductlist.html"
+			],
+			[
+				"nav_rp",
+				"templates/oscar/partials/nav_primary.html"
+			],
+			[
+				"extras",
+				"templates/oscar/partials/extrascripts.html"
+			],
+			[
+				"form_field",
+				"templates/oscar/partials/form_field.html"
+			],
+			[
+				"shop",
+				"ab_shop/templatetags/shop_tags.py"
+			],
+			[
+				"review_star",
+				"templates/oscar/catalogue/reviews/partials/review_stars.html"
+			],
+			[
+				"review",
+				"templatess/oscar/catalogue/partials/review.html"
+			],
+			[
+				"reviews_pro",
+				"templates/oscar/catalogue/reviews/review_product.html"
+			],
+			[
+				"review_list",
+				"templates/oscar/catalogue/reviews/review_list.html"
+			],
+			[
+				"review_detail",
+				"templates/oscar/catalogue/reviews/review_detail.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 198.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,28 @@
+{
+	"build_systems":
+	[
+		{
+			"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+			"name": "Anaconda Python Builder",
+			"selector": "source.python",
+			"shell_cmd": "\"/home/andre/.virtualenvs/personal_blog/bin/python\" -u \"$file\""
+		}
+	],
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+	"settings":
+	{
+		"auto_complete_triggers":
+		[
+			{
+				"characters": ".",
+				"selector": "source.python"
+			}
+		],
+		"python_interpreter": "/home/andre/.virtualenvs/personal_blog/bin/python",
+	}
+}

@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% load wagtailcore_tags wagtailimages_tags %}
+
+{% block body_class %}template-homepage{% endblock %}
+
+{% block content %}
+    {% if page.carousel %}
+        {% if page.carousel.items %}
+            {% include_block page.carousel.items %}
+        {% endif %}
+    {% endif %}
+	{{ page.body }}
+{% endblock %}

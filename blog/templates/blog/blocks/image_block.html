@@ -1,0 +1,5 @@
+{% load wagtailimages_tags %}
+
+{% image self.image width-500 as thumb_img %}
+
+<img src="{{ thumb_img.url }}" alt="{{ thumb_img.alt }}" class="img-responsive">
