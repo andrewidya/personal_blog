@@ -6,3 +6,6 @@ db.sqlite3
 .idea
 .idea/*
 blog/templates/blog/coba.html
+mini_blog.sublime-project
+mini_blog.sublime-workspace
+media/*
