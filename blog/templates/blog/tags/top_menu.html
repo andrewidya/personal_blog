@@ -3,6 +3,7 @@
 {% get_site_root as site_root %}
 
 <ul>
+	<h2>Site Navigation</h2>
 	<li><a href="{% pageurl site_root %}">{{ site_root.title }}</a></li>
 {% for menu in menus %}
 	<li>

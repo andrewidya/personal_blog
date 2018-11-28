@@ -30,9 +30,10 @@
     </head>
 
     <body class="{% block body_class %}{% endblock %}">
-        {% wagtailuserbar %} 
-        
+
         <header>
+            {% block page_title %}{% endblock %}
+            {% wagtailuserbar %}
             {% block header %}
                 {% include "include/header.html" %}
             {% endblock %}

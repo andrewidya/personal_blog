@@ -5,3 +5,4 @@ mini_blog.wpr
 db.sqlite3
 .idea
 .idea/*
+blog/templates/blog/coba.html

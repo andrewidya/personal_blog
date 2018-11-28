@@ -3,6 +3,7 @@ from __future__ import unicode_literals
 
 from django import forms
 from django.db import models
+from django.db.models import F
 from django.contrib import messages
 from django.shortcuts import redirect, render
 from django.core.exceptions import ObjectDoesNotExist
@@ -83,6 +84,7 @@ class BlogPage(Page):
     body = StreamField(BodyStreamBlock(), verbose_name='Page Body', blank=True)
     tags = ClusterTaggableManager(through=BlogPageTag, blank=True)
     categories = ParentalManyToManyField(BlogCategory, blank=True)
+    hit = models.IntegerField(verbose_name='rating', null=True, blank=True)
 
     subpage_type = ['blog.BlogPage']
     parent_page_type = ['blog.BlogIndexPage']
@@ -108,6 +110,14 @@ class BlogPage(Page):
     class Meta:
         verbose_name = 'Blog Post'
 
+    def save(self, *args, **kwargs):
+        is_new = self.id or None
+        if is_new is None:
+            self.hit = 0
+        
+        super(BlogPage, self).save(*args, **kwargs)
+            
+
     def get_context(self, request, *args, **kwargs):
         context = super(BlogPage, self).get_context(request, *args, **kwargs)
         context['parent_page'] = self.parent_page
@@ -116,7 +126,9 @@ class BlogPage(Page):
     def serve(self, request, *args, **kwargs):
         hit = PageHitCounter(page=self)
         hit.save()
-        
+        self.hit += 1
+        self.save()
+
         return super(BlogPage, self).serve(request, *args, **kwargs)
     
     @property
